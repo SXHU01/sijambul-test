@@ -63,3 +63,6 @@ upload/
 tests/
 mini-services/
 Caddyfile
+
+.vercel
+.env*
